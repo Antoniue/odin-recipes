@@ -1,14 +1,22 @@
 #details
 {
     color: orangered;
-
+    text-align: center;
 }
 body
 {
     background-color: black;
     color: wheat;
 }
+.dishid
+{
+    margin: 400px;
+}
 .regtext
 {
     color: wheat;
+}
+#recipetitle, #pic
+{
+    text-align: center;
 }
